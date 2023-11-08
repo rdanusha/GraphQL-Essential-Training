@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "654b25ec84e9a11efe1f7561"
+  },
+  "name": "Widget 1",
+  "description": "Nice description of Widget 1",
+  "price": 45.88,
+  "soldout": "ONSALE",
+  "stores": [
+    {
+      "store": "KS"
+    },
+    {
+      "store": "LA"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b271484e9a11efe1f7562"
+  },
+  "name": "Widget 2",
+  "description": "Nice description of Widget 2",
+  "price": 55.88,
+  "soldout": "ONSALE",
+  "stores": [
+    {
+      "store": "AL"
+    },
+    {
+      "store": "CA"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b273984e9a11efe1f7563"
+  },
+  "name": "Widget 3",
+  "description": "Nice description of Widget 3",
+  "price": 32.88,
+  "soldout": "SOLD",
+  "stores": [
+    {
+      "store": "DC"
+    },
+    {
+      "store": "CA"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b276484e9a11efe1f7564"
+  },
+  "name": "Widget 4",
+  "description": "Nice description of Widget 4",
+  "price": 87.88,
+  "soldout": "ONSALE",
+  "stores": [
+    {
+      "store": "TA"
+    },
+    {
+      "store": "WA"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b2f96e3b7cf09d234b7da"
+  },
+  "name": "sdsds",
+  "price": 32.23,
+  "soldout": "ONSALE"
+},
+{
+  "_id": {
+    "$oid": "654b396b8f585e9a63b94f34"
+  },
+  "name": "Widget 55",
+  "description": "Another cool Desp",
+  "price": 32.44,
+  "soldout": "ONSALE",
+  "stores": [
+    {
+      "store": "KS"
+    },
+    {
+      "store": "LA"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654b3eab029656a3d30d94c8"
+  },
+  "name": "Widget 66",
+  "description": "Another cool Desp 66",
+  "price": 35.44,
+  "soldout": "SOLDOUT",
+  "stores": [
+    {
+      "store": "KS"
+    },
+    {
+      "store": "LA"
+    }
+  ],
+  "__v": 0
+}]
